@@ -1,48 +1,45 @@
- div {
-    
-    margin-top: 20px;
-    box-sizing: content-box; 
-    width: auto;
-   height: fit-content;
-    border: 2px solid black;
-   padding: 0px;
-    border-radius: 15px;
-   background-color: darkslategray;
-    font-family:'Poppins';
-  }
+div {
+  margin-top: 20px;
+  box-sizing: content-box;
+  width: auto;
+  height: fit-content;
+  border: 2px solid black;
+  padding: 0px;
+  border-radius: 15px;
+  background-color: darkslategray;
+  font-family: "Poppins";
+}
 
-h2{
-    color: orange;
-    padding-left: 350px;
+h2 {
+  color: orange;
+  padding-left: 350px;
 }
-label{
-    margin-right: 20px;
-    padding-left: 350px;
-    color:white ;
+label {
+  margin-right: 20px;
+  padding-left: 350px;
+  color: white;
 }
-#button{
-    display: inline;
-    margin-right: 20px;
-    margin-left: 0px;
-    color:white ;
-    background-color:orange;
-    border-radius: 10px;
-    padding: 10px;
-
+#button {
+  display: inline;
+  margin-right: 20px;
+  margin-left: 0px;
+  color: white;
+  background-color: orange;
+  border-radius: 10px;
+  padding: 10px;
 }
-#reset{
-    background-color:orange ;
-    color:white ;
-    border-radius: 10px;
-    padding: 10px;
-   
+#reset {
+  background-color: orange;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
 }
-.link{
-    padding-left: 350px;
-    color:white ;
+.link {
+  padding-left: 350px;
+  color: white;
 }
-a{
-    text-decoration: none;
-     margin-right: 10px;
-    color:white ;
+a {
+  text-decoration: none;
+  margin-right: 10px;
+  color: white;
 }

@@ -1,0 +1,40 @@
+body {
+  background-image: url(backgroundimg.png);
+  font-family: "Poppins";
+  background-size: contain;
+  box-sizing: content-box;
+  height: auto;
+  width: max-content;
+  padding: 50px;
+  margin: 150px;
+  border-color: black;
+  border-style: solid;
+}
+h2 {
+  padding-left: 50px;
+}
+p {
+  padding-left: 70px;
+}
+.div1 {
+  float: left;
+  padding-right: 20px;
+  margin-bottom: 20px;
+  padding-left: 30px;
+  box-sizing: border-box;
+}
+
+#input1,
+#input2 {
+  background-color: darkcyan;
+}
+#button1,
+#button2 {
+  border: 2px;
+  border-radius: 12px;
+  color: black;
+  padding: 15px 40px;
+  text-align: center;
+  width: 100%;
+  background-color: cornflowerblue;
+}
